@@ -1,4 +1,5 @@
-Deciphering Healthcare Financing: Income, Spending, and OOP Burdens
+**Deciphering Healthcare Financing: Income, Spending, and OOP Burdens**
+
 This project investigates how national wealth (GDP) and government policy effort influence the financial burden of healthcare on households across 38 OECD countries over a 23-year period (2000–2023).
 
 🚀 Project Overview
